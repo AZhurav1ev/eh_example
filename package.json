@@ -4,13 +4,15 @@
     "main": "script.js",
     "homepage": "https://azhurav1ev.github.io/eh_example",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "http-server -o"
     },
     "author": "",
     "license": "ISC",
     "keywords": [],
     "description": "",
     "dependencies": {
+        "http-server": "^0.12.3",
         "xbs-enjoyhint": "^4.0.2"
     }
 }
