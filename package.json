@@ -1,15 +1,16 @@
 {
-  "name": "eh_test",
-  "version": "1.0.0",
-  "main": "script.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "keywords": [],
-  "description": "",
-  "dependencies": {
-    "xbs-enjoyhint": "^4.0.2"
-  }
+    "name": "eh_test",
+    "version": "1.0.0",
+    "main": "script.js",
+    "homepage": "https://azhurav1ev.github.io/eh_example",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "keywords": [],
+    "description": "",
+    "dependencies": {
+        "xbs-enjoyhint": "^4.0.2"
+    }
 }
